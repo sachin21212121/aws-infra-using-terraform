@@ -73,7 +73,7 @@ terraform destroy -auto-approve
 ```
 
 ## Author
-[Your Name]
+Sachin Jha
 
 ## License
 This project is licensed under the MIT License.
