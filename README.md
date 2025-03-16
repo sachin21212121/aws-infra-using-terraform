@@ -1,6 +1,6 @@
 # AWS Infrastructure using Terraform
 
-![image](https://github.com/user-attachments/assets/aeb76b14-88ef-49fd-b522-8102c4f5f8bf)
+![image](https://github.com/user-attachments/assets/5950fe3d-e63e-4c60-ba5a-1ed11386b282)
 
 
 This repository contains Terraform scripts to set up an AWS infrastructure with a VPC, subnets, security groups, EC2 instances, an Application Load Balancer (ALB), and an S3 bucket.
